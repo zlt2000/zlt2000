@@ -16,4 +16,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zlt2000&repo=dubboSpringCloud&theme=dracula" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlt2000&theme=dracula)](https://github.com/search?q=user%3Azlt2000+language%3Ajava)
+<a target="_blank" href="https://github.com/search?q=user%3Azlt2000+language%3Ajava">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlt2000&theme=dracula" />
+</a>
