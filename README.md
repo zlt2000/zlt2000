@@ -2,7 +2,7 @@
 擅长于Java，Spring Boot，Spring Cloud，微服务、中间件、大数据等领域。 请关注我的公众号：「陶陶技术笔记」
 
 |                            公众号                            | 个人博客 |  开源中国  | CSDN | GitChat |
-| :----------------------------------------------------------: | :------: | :----: | :-----: |
+| :----------------------------------------------------------: | :------: | :----: | :-----: | :-----: |
 | [陶陶技术笔记](http://qiniu.zlt2000.cn/blog/20190902/M56cWjw7uNsc.png?imageslim) |  [个人博客](https://zlt2000.gitee.io/)  | [开源中国](https://my.oschina.net/zlt2000) | [CSDN](https://blog.csdn.net/zlt2000)  | [GitChat](https://gitbook.cn/gitchat/author/5b2362320398d50d7b7ab29e) |
 
 ### Github State
