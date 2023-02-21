@@ -15,7 +15,3 @@
 <a target="_blank" href="https://github.com/zlt2000/dubboSpringCloud">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zlt2000&repo=dubboSpringCloud&theme=dracula" />
 </a>
-
-<a target="_blank" href="https://github.com/zlt2000/springs-boot-plugin-test">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zlt2000&repo=dubboSpringCloud&theme=dracula" />
-</a>
